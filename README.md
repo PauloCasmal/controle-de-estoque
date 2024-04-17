@@ -2,7 +2,7 @@
 Este repositório contempla a criação de um aplicativo capaz de controlar um estoque fictício como cumprimento das atividades necessárias
 para conclusão da matéria de Algoritmos e Programação em Python ministrada pelo Prof. Adriano Silva.
 
-Este aplicativo deve contemplar:
+Este aplicativo contempla:
 - Deverá possibilitar ao usuário o controle completo (inserção, edição, exclusão e consulta) das entidades: produto e gestão de estoque.
 - ⁠Considere que para registrar um produto, deverá manter a quantidade mínima de um estoque para o mesmo.
 - ⁠Deverão existir métodos de inclusão de quantidades em estoque para determinado produto, bem como retirada.
